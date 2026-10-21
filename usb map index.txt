@@ -1,0 +1,39 @@
+  #######################################################
+ #            Select Ports and Build Kext              #
+#######################################################
+
+Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft) | USB 3.0 (XHCI) | 0/26 ports
+[ ]  1.  Port 1 | USB 2.0 | USB 3 Type A (guessed) | Companion to 19
+          - Fifine K658  Microphone - operating at USB 1.1
+[ ]  2.  Port 2 | USB 2.0 | USB 3 Type A (guessed) | Companion to 20
+[ ]  3.  Port 3 | USB 2.0 | Type A (guessed)
+          - USB2.0 HUB - operating at USB 2.0
+            - 2.4G Wireless Receiver - operating at USB 1.1
+            - fifine Headset - operating at USB 1.1
+[ ]  4.  Port 4 | USB 2.0 | Type A (guessed)
+          - Wired Gaming Mouse - operating at USB 1.1
+[ ]  5.  Port 5 | USB 2.0 | USB 3 Type A (guessed) | Companion to 17
+[ ]  6.  Port 6 | USB 2.0 | Type C - with switch (guessed) | Companion to 18
+[ ]  7.  Port 7 | USB 2.0 | Type A (guessed)
+          - BRCM20702 Hub - operating at USB 1.1
+            - Bluetooth USB Host Controller - operating at USB 1.1
+[ ]  8.  Port 8 | USB 2.0 | Type A (guessed)
+[ ]  9.  Port 9 | USB 2.0 | USB 3 Type A (guessed) | Companion to 23
+[ ]  10. Port 10 | USB 2.0 | USB 3 Type A (guessed) | Companion to 24
+[ ]  11. Port 11 | USB 2.0 | USB 3 Type A (guessed) | Companion to 22
+[ ]  12. Port 12 | USB 2.0 | USB 3 Type A (guessed) | Companion to 26
+[ ]  13. Port 13 | USB 2.0 | Type A (guessed)
+[ ]  14. Port 14 | USB 2.0 | Type A (guessed)
+          - USB Flash Disk - operating at USB 2.0
+[ ]  15. Port 15 | USB 2.0 | Internal (guessed)
+[ ]  16. Port 16 | USB 2.0 | Internal (guessed)
+[ ]  17. Port 17 | USB 3.0 | USB 3 Type A (guessed) | Companion to 5
+[ ]  18. Port 18 | USB 3.0 | Type C - with switch (guessed) | Companion to 6
+[ ]  19. Port 19 | USB 3.0 | USB 3 Type A (guessed) | Companion to 1
+[ ]  20. Port 20 | USB 3.0 | USB 3 Type A (guessed) | Companion to 2
+[ ]  21. Port 21 | USB 3.0 | Internal (guessed)
+[ ]  22. Port 22 | USB 3.0 | USB 3 Type A (guessed) | Companion to 11
+[ ]  23. Port 23 | USB 3.0 | USB 3 Type A (guessed) | Companion to 9
+[ ]  24. Port 24 | USB 3.0 | USB 3 Type A (guessed) | Companion to 10
+[ ]  25. Port 25 | USB 3.0 | Internal (guessed)
+[ ]  26. Port 26 | USB 3.0 | USB 3 Type A (guessed) | Companion to 12

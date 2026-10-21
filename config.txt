@@ -1,0 +1,9 @@
+PLACA MAE:	MSI MPG Z390 Gaming Plus (MS-7B51) (4 PCI-E x1, 2 PCI-E x16, 2 M.2, 4 DDR4 DIMM, Audio, Video, Gigabit LAN)
+CHIPSET: 	Intel Cannon Point Z390, Intel Coffee Lake-S
+CPU:		HexaCore Intel Core i5-9600KF, 4500 MHz (45 x 100)
+MEMORIA:	32GB RAM DDR4 - 2x 16gb RAM 3200mhz
+GPU:		AMD Radeon RX 6600 (8 GB) NAVI 23
+CODEC: 		Realtek ALC892
+WIFI/BT:	BCM 94360 CD
+ETHERNET:	Broadcom 802.11ac Network Adapter / 	Intel(R) Ethernet Connection (7) I219-V (192. [ TRIAL VERSION ])
+BIOS:		7B51v1F - 09/08/2024
